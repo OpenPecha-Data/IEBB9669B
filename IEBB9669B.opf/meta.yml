@@ -1,0 +1,29 @@
+id: IEBB9669B
+legacy_id: null
+ocr_import_info:
+  bdrc_scan_id: WW1KG21595
+  source: bdrc
+  ocr_info:
+    timestamp: '2023-02-01T00:00:00Z'
+  batch_id: batch-0002
+  software_id: norbuketaka
+  expected_default_language: bo
+  op_import_options: null
+default_language: bo
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2023-12-16T17:03:13.071008'
+last_modified: '2023-02-01T00:00:00+00:00'
+parser: https://github.com/OpenPecha/Norbu-Keta-eText-import/blob/main/norbu_ketaka_parser.py
+source_metadata: {}
+statistics: null
+quality: null
+bases: {}
+copyright:
+  status: Public domain
+  notice: The proofread texts are donated by the Norbu Ketaka project led by Queenie
+    Luo (Harvard University), Zhiying Li (Sichuan University) and Leonard van der
+    Kuijp (Harvard University). Correspondence should be directed to  queenieluo@g.harvard.edu
+  info_url: null
+license: CC0
